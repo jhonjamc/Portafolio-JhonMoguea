@@ -1,4 +1,3 @@
-
 :root {
     --primary-color: #000000;
     --secondary-color: #333333;
@@ -538,5 +537,3 @@ nav ul li a:hover::after {
         gap: 20px;
     }
 }
-
-
